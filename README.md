@@ -1,0 +1,1 @@
+Coloque o arquivo .gals na mesma pasta que o programa, insira o nome do arquivo na variável "input_file", rode o programa.
