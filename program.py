@@ -1,5 +1,5 @@
 #nome do arquivo de entrada
-input_file = "compilador_macaco_v13.gals"
+input_file = "filename.gals"
 
 #####################################################
 
